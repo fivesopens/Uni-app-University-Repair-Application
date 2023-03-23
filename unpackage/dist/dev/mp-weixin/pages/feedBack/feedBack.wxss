@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.card_body {
+  display: flex;
+  flex-direction: column;
+  padding: 20rpx 19rpx 0rpx 19rpx;
+}
+.card_body .uni-body {
+  padding-bottom: 17rpx;
+  color: #333;
+}
+.card_body .uni-body text {
+  padding-right: 15rpx;
+  color: #7d7d7d;
+}
+

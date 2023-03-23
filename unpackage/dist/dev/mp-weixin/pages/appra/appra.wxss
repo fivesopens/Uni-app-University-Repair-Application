@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.tag-view {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 150rpx;
+}
+.tag-view .uni-tag {
+  margin-left: 35rpx;
+}
+.uni-textarea textarea {
+  padding: 17px;
+  border: 1px solid #bebebe52;
+  width: 95%;
+  height: 250rpx;
+  padding: 45rpx 0 0 33rpx;
+}
+.submit {
+  width: 220rpx;
+  height: 71rpx;
+  margin-top: 78rpx;
+  margin-bottom: 78rpx;
+  line-height: 71rpx;
+  font-size: 28rpx;
+  border: 1px solid #2196F3;
+}
+button[type=primary] {
+  background-color: #fff;
+  color: #2196F3;
+}
+.button-hover[type=primary] {
+  background-color: #2196F3;
+  color: #fff;
+}
+

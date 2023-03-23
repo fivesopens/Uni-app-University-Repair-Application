@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "评价反馈",
+  "enablePullDownRefresh": false,
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "uni-card": "/uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-steps": "/uni_modules/uni-steps/components/uni-steps/uni-steps",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

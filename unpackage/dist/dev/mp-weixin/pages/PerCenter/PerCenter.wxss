@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #f2f2f2;
+}
+.list .list_item {
+  background-color: #fff;
+}
+.list .list_item .item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list .list_item .item .right {
+  margin-right: 25px;
+  display: flex;
+  align-items: center;
+}
+.list .list_item .item .right .ctx {
+  margin-right: 15px;
+  font-size: 17px;
+  color: #939393;
+}
+.list .list_item ._li {
+  width: 100%;
+  height: 10%;
+  border-bottom: 1px solid #f2f2f2;
+  margin-left: 20px;
+  padding: 10px 0px;
+  font-size: 13px;
+}
+.list .list_item ._li image {
+  width: 60px;
+  height: 60px;
+  padding-left: 10px;
+}
+

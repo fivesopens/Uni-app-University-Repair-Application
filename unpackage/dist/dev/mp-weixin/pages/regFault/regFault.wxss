@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.body .form-body.data-v-10c07b74 {
+  height: 1350rpx;
+  background-color: #fff;
+  padding-left: 15px;
+}
+.body .form-body .form-item.data-v-10c07b74 {
+  margin-left: 10px;
+}
+.body .bottom-submit.data-v-10c07b74 {
+  padding: 10px 5px;
+  width: 100%;
+  display: flex;
+  background-color: #fff;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  right: 0;
+  left: 0px;
+  right: 0px;
+  bottom: 0;
+}
+.body .bottom-submit .submit.data-v-10c07b74 {
+  width: 90%;
+  height: 40px;
+  border-radius: 50px;
+  line-height: 40px;
+}
+button[type=primary].data-v-10c07b74 {
+  background-color: #007aff;
+}
+

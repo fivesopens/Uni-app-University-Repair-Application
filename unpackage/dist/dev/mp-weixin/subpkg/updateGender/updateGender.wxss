@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #fff;
+}
+.select_sex .uni-data-checklist .checklist-group .checklist-box {
+  width: 100%;
+  height: 30px;
+}
+.select_sex .uni-data-checklist .checklist-group .checklist-box .checklist-content .checklist-text {
+  font-size: 15px;
+  margin-left: 16px;
+}
+.select_sex .uni-data-checklist .checklist-group .checklist-box.is--button {
+  margin-right: 0;
+  border: 0;
+}
+.submit {
+  display: flex;
+  margin-top: 20px;
+}
+.submit button {
+  width: 40%;
+  border-radius: 50px;
+}
+button[type=primary] {
+  background-color: #007aff;
+}
+

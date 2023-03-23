@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "注册",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "reg-form": "/components/reg-form/reg-form"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/regUser/regUser",
+    "pages/login/login",
+    "pages/updatePwd/updatePwd",
+    "pages/PerCenter/PerCenter",
+    "pages/myFault/myFault",
+    "pages/select-worker/select-worker",
+    "pages/regFault/regFault",
+    "pages/feedBack/feedBack",
+    "pages/appra/appra"
+  ],
+  "subPackages": [
+    {
+      "root": "subpkg",
+      "pages": [
+        "introdiction/introdiction",
+        "upUsername/upUsername",
+        "updateGender/updateGender",
+        "updateCountry/updateCountry",
+        "updateAvotImg/updateAvotImg"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "校园报修",
+    "navigationBarBackgroundColor": "#326ef6",
+    "backgroundColor": "#3374f5"
+  },
+  "tabBar": {
+    "selectedColor": "#368be5",
+    "borderStyle": "black",
+    "color": "#616161",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar-icon/shouye-shouye.png",
+        "selectedIconPath": "static/tabbar-icon/shouye.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/tabbar-icon/weibiaoti2fuzhi12.png",
+        "selectedIconPath": "static/tabbar-icon/wode.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

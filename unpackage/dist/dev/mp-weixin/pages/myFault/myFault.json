@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的报修",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-badge": "/uni_modules/uni-badge/components/uni-badge/uni-badge",
+    "uni-segmented-control": "/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "o-empty": "/uni_modules/o-empty/components/o-empty/o-empty",
+    "to-repair": "/components/toRepair/toRepair",
+    "rep-loading": "/components/repLoading/repLoading",
+    "rep-over": "/components/repOver/repOver"
+  }
+}

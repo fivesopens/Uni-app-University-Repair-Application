@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+page {
+  background-color: #ffffff;
+}
+._span:nth-child(1) {
+  padding: 15px;
+  line-height: 40px;
+  color: #323232;
+  font-size: 20px;
+  font-weight: bold;
+}
+._span:nth-child(3) {
+  padding: 15px;
+  font-size: 13px;
+  line-height: 40px;
+  color: #b9b9b9;
+}
+._p {
+  padding: 0px 15px 0px 15px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #353535;
+}
+
